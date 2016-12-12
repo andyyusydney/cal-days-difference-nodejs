@@ -22,7 +22,7 @@ npm start
 
 ### Running with arguments
 
-You can also pass in arguments. Arguments are assumed to be the query.
+You can also pass in arguments. Both are optional.
 
 ``` sh
 npm start date1 date2
