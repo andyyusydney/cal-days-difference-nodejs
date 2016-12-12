@@ -18,7 +18,6 @@ Running without any arguments brings you to a prompt
 
 ``` sh
 npm start
-prompt: query
 ```
 
 ### Running with arguments
